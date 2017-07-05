@@ -1,0 +1,9 @@
+{
+    "port": 9005,
+    "log": {
+        "path": "",
+        "datePattern": "yyyy-MM-dd",
+        "maxsize": 5000,
+        "maxFiles": 100
+    }
+}
